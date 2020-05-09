@@ -21,6 +21,7 @@ docker run -it -p 3999:3999 dockergotour
 ```
 
 ## sh
+
 ```bash
 docker run -it --rm -p 3999:3999 dockergotour sh
 ```
